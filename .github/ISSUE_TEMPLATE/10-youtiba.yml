@@ -1,0 +1,75 @@
+# Shortsub report, public bug tracking.
+#
+# Copyright (C) 2024  Dirk "YouDirk" Lehmann.  All rights reserved.
+
+name: Youtiba 3D Engine issue
+
+description: Report an issue related to Youtiba 3D Engine here.
+
+title: "[Youtiba]: "
+
+labels: ["new", "app-youtiba"]
+
+#projects: ["Shortsub/project1", "Shortsub/project2"]
+projects: []
+
+assignees:
+  - YouDirk
+
+body:
+
+  - type: markdown
+    attributes:
+      value: |
+        Please give a **detailed description** how to reproduce the
+        bug, or of the enhancement in your mind, or, or, or...
+
+  - type: dropdown
+    id: form_label
+    attributes:
+      label: Label
+      description: What kind of issue?
+      options:
+        - bug
+        - enhancement (feature request)
+        - documentation
+        - question
+      default: 0
+      required: true
+
+  - type: dropdown
+    id: form_os
+    attributes:
+      label: Operating system
+      description: Which operating system was used?
+      options:
+        - Linux
+        - Windows
+        - Android
+        - macOS
+        - iOS
+      default: 1
+      required: true
+
+  - type: textarea
+    id: form_description
+    attributes:
+      label: Detailed description
+      description: "Let's describe the issue!"
+      placeholder: |
+        An empty description is not allowed!
+      value: |
+        I tried to [...]. And then it happens :(
+
+        The order to reproduce is:
+
+        1. Starting/Compiling the Youtiba application
+        2. I am doing [...]
+        3. The application crashes
+        4. Compiler/Log output/Error output gives:
+           ```
+           INFO: ...
+           INFO: ...
+           ERROR: ...
+           ```
+      required: true
