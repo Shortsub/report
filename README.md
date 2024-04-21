@@ -2,7 +2,7 @@
 
 Public bug tracking.
 
-## Reporting
+### Reporting
 
 To report an issue use the following link.
 
