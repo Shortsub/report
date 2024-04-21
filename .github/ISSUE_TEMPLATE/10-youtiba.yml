@@ -21,7 +21,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please give a **detailed description** how to reproduce the
+        Please give a **detailed description** how to reproduce the  
         bug, or of the enhancement in your mind, or, or, or...
 
   - type: dropdown
