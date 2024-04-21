@@ -20,8 +20,7 @@ body:
 
   - type: markdown
     attributes:
-      value: |
-        Please give a **detailed description** how to reproduce the  
+      value: Please give a **detailed description** how to reproduce the
         bug, or of the enhancement in your mind, or, or, or...
 
   - type: dropdown
@@ -68,7 +67,7 @@ body:
         1. Starting/Compiling the Youtiba application
         2. I am doing [...]
         3. The application crashes
-        4. Compiler/Log output/Error output gives:
+        4. Compiler/Log gives error/output:
            ```
            INFO: ...
            INFO: ...
