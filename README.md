@@ -1,4 +1,4 @@
-# Shortsub report
+## Shortsub report
 
 Public bug tracking.
 
