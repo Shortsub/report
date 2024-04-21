@@ -8,8 +8,8 @@ security patches.
 
 ### Reporting an security issue
 
-Use this link for reporting an security issue.  Also a list of
-published issues is available here:
+Use the **button** in the link below to report an security issue.  A
+list of published security issues is available, too.
 
 * https://github.com/Shortsub/report/security
 
