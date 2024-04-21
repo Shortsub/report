@@ -8,7 +8,7 @@ To report an issue use the following link.
 
 * https://github.com/Shortsub/report/issues
 
-#### Reporting a Vulnerability
+#### Reporting an security issue
 
 To read the security policy for reporting an security issues use the
 following link.

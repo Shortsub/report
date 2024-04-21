@@ -1,12 +1,12 @@
 ## Security Policy
 
-### Supported Versions
+### Supported versions
 
 We are currently providing all versions in development `x.y.z-dev`
 with security patches.  Old versions `x.y.z-old` are not provided with
 security patches.
 
-### Reporting a Vulnerability
+### Reporting an security issue
 
 Use this link for reporting an security issue.  Also a list of
 published issues is available here:
