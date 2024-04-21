@@ -28,15 +28,15 @@ until all needed collaborators are involved.
 Then this issue will be fixed confidential by the involved
 collaborators.
 
-After fixing the needed parts of software a decision will made if this
-issue will be
+After fixing the needed parts in the software, a decision will be made
+if this issue will be
 
-* kept private
-* published by requesting a CVE
-* published without CVE
+1. published with CVE
+2. published without CVE
+3. or kept private
 
 ### Security Standards
 
-If we are publishing security issues then we will label it with **CVE
-(Common Vulnerabilities and Exposures)** identifiers in the most
-cases.
+If we are publishing security issues then in the most cases we will
+label these with **CVE (Common Vulnerabilities and Exposures)**
+identifiers.

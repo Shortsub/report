@@ -4,12 +4,13 @@ Public bug tracking.
 
 ## Reporting
 
-For reporting an issus use the following link:
+To report an issue use the following link.
 
 * https://github.com/Shortsub/report/issues
 
-### Reporting a Vulnerability
+#### Reporting a Vulnerability
 
-For security issues read the security policy here:
+To read the security policy for reporting an security issues use the
+following link.
 
 * https://github.com/Shortsub/report/security
