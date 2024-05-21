@@ -9,7 +9,7 @@ security patches.
 ### Reporting an security issue
 
 Use the **button** in the link below to report an security issue.  A
-list of published security issues is available, too.
+list of published security issues can also be found there.
 
 * https://github.com/Shortsub/report/security
 
@@ -23,7 +23,7 @@ until all needed collaborators are involved.
 Then this issue will be fixed confidential by the involved
 collaborators.
 
-After fixing the needed parts in the software, a decision will be made
-if this issue will be
+If fixing the needed parts in the software are done, a decision will
+be made if this issue will be either
 
 * published with CVE, published without CVE or kept private.
